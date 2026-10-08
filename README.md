@@ -1,15 +1,16 @@
-# Hi, I’m Abdul Rehman 👋
+# Hi, I’m Abdur Rehman 👋
 
-🎓 ICS Student from Pakistan  
+🎓 BS CS Student from Pakistan  
 💻 Beginner Programmer  
 🔐 Aspiring Cybersecurity Student
 
 ---
 
 ## 🚀 What I’m Currently Learning
-- C Programming (fundamentals)
+- C Programming (Intermediate)
 - Git & GitHub
-- Linux basics
+- Linux (Intermediate)
+- C++ Programming 
 
 ---
 
@@ -17,7 +18,7 @@
 - C
 - Git & GitHub
 - VS Code
-- Linux (beginner)
+- Linux
 
 ---
 
@@ -28,5 +29,3 @@ I use GitHub to:
 - Build a strong technical foundation for future studies
 
 ---
-
-⭐ Learning in public. Improving step by step.
