@@ -8,6 +8,8 @@
 
 ## 🚀 What I’m Currently Learning
 - C Programming (Intermediate)
+- Harvard's CS50x
+- Google Cybersecurity Professional Certificate
 - Git & GitHub
 - Linux (Intermediate)
 - C++ Programming 
@@ -15,10 +17,11 @@
 ---
 
 ## 🛠️ Tools & Technologies
-- C
+- VirtualBox
 - Git & GitHub
 - VS Code
-- Linux
+- Kali Linux (via virtualbox)
+- Ubuntu Linux (host os)
 
 ---
 
